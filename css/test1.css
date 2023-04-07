@@ -1,0 +1,22 @@
+h1{
+    color: rgb(199, 31, 59);
+}
+
+h1,h2,h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    text-align: centre;
+}
+
+#para1{
+    background-color: rgb(233, 166, 226);
+}
+
+.fruits{
+    color: green;
+    border: 1px solid black;
+}
+
+/* body{
+    color:blue;
+} */
